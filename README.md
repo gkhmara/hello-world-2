@@ -3,4 +3,4 @@ Learning how to use github.
 
 Hello! 
 
-I am writing this message for the purpose of a message. It's practice. You get it. Also, now I am done writing this. I'll end this last sentence with a cool period. Yeah!
+I didn't like what was written there, so I deleted it. Sorry. No... actually I'm not sorry. I'm glad I deleted that bit of text. It was bad. I mean real bad.
